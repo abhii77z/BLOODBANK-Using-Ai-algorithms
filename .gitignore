@@ -1,0 +1,46 @@
+# Virtual environment
+back/venv/
+back/.venv/
+venv/
+.venv/
+ENV/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+back/__pycache__/
+back/**/*.pyc
+
+# Node dependencies
+blood/node_modules/
+node_modules/
+
+# Production build outputs
+blood/dist/
+blood/dist-ssr/
+dist/
+
+# Local env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+blood/.env
+blood/.env.local
+back/.env
+
+# Editor & System Files
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+Thumbs.db

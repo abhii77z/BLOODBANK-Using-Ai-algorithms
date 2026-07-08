@@ -1,0 +1,13 @@
+blinker      
+click        
+colorama     
+dnspython    
+Flask        
+flask-cors   
+itsdangerous 
+Jinja2       
+MarkupSafe   
+pip          
+pymongo      
+setuptools   
+Werkzeug     
